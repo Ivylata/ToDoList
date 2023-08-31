@@ -5,4 +5,4 @@ This is a simple ToDo list application where user can add ToDo notes and mark as
 
 HTML,CSS,JAVASCRIPT
 
-CLICK HERE TO VIEW : 
+CLICK HERE TO VIEW : https://ivylata.github.io/ToDoList/
